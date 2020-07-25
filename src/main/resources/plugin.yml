@@ -1,0 +1,7 @@
+name: MinecraftChess
+version: ${project.version}
+main: dev.profsucrose.minecraftchess.MinecraftChess
+api-version: 1.16
+commands:
+  chess:
+    description: Start chess game
